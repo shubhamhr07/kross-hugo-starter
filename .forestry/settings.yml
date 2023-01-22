@@ -32,6 +32,8 @@ sections:
   label: Contact
   create: none
   match: "*"
+- type: heading
+  label: About
 - type: document
   path: config.toml
   label: Configuration
